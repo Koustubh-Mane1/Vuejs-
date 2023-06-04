@@ -1,0 +1,54 @@
+[
+    {
+        "id": 0,
+        "svg": "/assets/appSvg/aws.svg"
+    },
+    {
+        "id": 0,
+        "svg": "/assets/appSvg/awscopy.svg"
+    },
+    {
+        "id": 0,
+        "svg": "/assets/appSvg/cloud.svg"
+    },
+    {
+        "id": 0,
+        "svg": "/assets/appSvg/javascript.svg"
+    },
+    {
+        "id": 0,
+        "svg": "/assets/appSvg/javascriptcopy.svg"
+    },
+    {
+        "id": 0,
+        "svg": "/assets/appSvg/logo.svg"
+    },
+    {
+        "id": 0,
+        "svg": "/assets/appSvg/node.svg"
+    },
+    {
+        "id": 0,
+        "svg": "/assets/appSvg/react.svg"
+    },
+    {
+        "id": 0,
+        "svg": "/assets/appSvg/reactcopy.svg"
+    },
+    {
+        "id": 0,
+        "svg": "/assets/appSvg/redux.svg"
+    },
+    {
+        "id": 0,
+        "svg": "/assets/appSvg/reduxcopy.svg"
+    },
+    {
+        "id": 0,
+        "svg": "/assets/appSvg/sf.svg"
+    },
+    {
+        "id": 0,
+        "svg": "/assets/appSvg/sfcopy.svg"
+    }
+]

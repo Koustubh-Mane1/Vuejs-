@@ -1,0 +1,24 @@
+[
+    {
+        "name": "Web Development",
+        "description": "This is the description for Web Development."
+        
+    },
+    {
+        "name": "Mobile Development",
+        "description": "This is the description for Mobile Development."
+    },
+    {
+        "name": "UI/UX Designing",
+        "description": "This is the description for UI/UX Designing."
+    },
+    {
+        "name": "Branding",
+        "description": "This is the description for Branding."
+    },
+    {
+        "name": "Cloud Technology",
+        "description": "This is the description for Cloud Technology."
+    }
+
+]
