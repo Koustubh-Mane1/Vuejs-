@@ -9,9 +9,9 @@
           <p class = "font-poppins text-white text-xs  mt-10 ">Lorem Finaldream rure dolor in reprehenderit in voluptate velit esse cillum dolore e uis nostrud exercitation isi ut aliquip ex ea commodo consequat.</p>
           <div class = "flex flex-row"> 
              
-                <img src ='../assets/Footer Icons/facebook.svg' class = "py-3 px-1"/>
-                <img src ='../assets/Footer Icons/twitter.svg' class = "py-3 px-1"/>
-                <img src ='../assets/Footer Icons/computer.svg' class = "py-3 px-1"/>
+                <img src ='../assets/FooterIcons/facebook.svg' class = "py-3 px-1"/>
+                <img src ='../assets/FooterIcons/twitter.svg' class = "py-3 px-1"/>
+                <img src ='../assets/FooterIcons/computer.svg' class = "py-3 px-1"/>
              
           
           </div>
